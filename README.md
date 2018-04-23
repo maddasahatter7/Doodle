@@ -1,1 +1,1 @@
-# Doodle
+So hopefully this app allows the user to doodle some shit when it's done.
